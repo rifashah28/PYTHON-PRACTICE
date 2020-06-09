@@ -4,5 +4,11 @@ Python, Spyder, IDLE
 
 
   Arithmetic Operators
+  
+  
   Python If-Else
+  
+  
   Say "Hello, World!" With Python
+  
+  
